@@ -13,6 +13,8 @@ A production-ready backend engine that generates personalized, adaptive meal pla
 - **Budget Optimization**: Optimize meal plans within specified budget constraints
 - **Production Ready**: Modular, scalable architecture suitable for integration into health applications
 
+## Activity Levels
+
 ## Installation
 
 1. Install required dependencies:
