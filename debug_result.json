@@ -1,0 +1,16 @@
+{
+  "success": false,
+  "error": "Meal plan generation failed: attempted relative import with no known parent package",
+  "meals": [],
+  "total_calories": 0,
+  "total_macros": {
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0
+  },
+  "shopping_list": [],
+  "adaptations": "",
+  "personalization_notes": "",
+  "engine_version": "1.0.0",
+  "generated_at": "2025-09-26T13:49:18.238469"
+}

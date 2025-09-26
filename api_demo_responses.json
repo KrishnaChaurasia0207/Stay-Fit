@@ -1,0 +1,215 @@
+{
+  "basic_user": {
+    "success": true,
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "items": [
+          "Oatmeal",
+          "Banana",
+          "Eggs"
+        ],
+        "calories": 323.9,
+        "protein": 16.5,
+        "carbs": 35.9,
+        "fat": 12.7
+      },
+      {
+        "meal_type": "lunch",
+        "items": [
+          "Chicken Breast",
+          "Quinoa",
+          "Broccoli"
+        ],
+        "calories": 319.1,
+        "protein": 38.199999999999996,
+        "carbs": 28.3,
+        "fat": 5.9
+      },
+      {
+        "meal_type": "dinner",
+        "items": [
+          "Turkey Breast",
+          "Sweet Potato",
+          "Spinach"
+        ],
+        "calories": 246.70000000000002,
+        "protein": 34.6,
+        "carbs": 23.700000000000003,
+        "fat": 1.5
+      }
+    ],
+    "total_calories": 889.7,
+    "total_macros": {
+      "protein": 89.3,
+      "carbs": 87.9,
+      "fat": 20.1
+    },
+    "shopping_list": [
+      {
+        "item": "Quinoa",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "item": "Broccoli",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "item": "Eggs",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "item": "Banana",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "item": "Oatmeal",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "item": "Turkey Breast",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "item": "Sweet Potato",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "item": "Spinach",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "item": "Chicken Breast",
+        "quantity": 100,
+        "unit": "g"
+      }
+    ],
+    "total_cost": 11.4,
+    "adaptations": "",
+    "personalization_notes": "Budget-optimized for $20.0/day",
+    "metabolic_profile": {
+      "bmr": 1724.0,
+      "tdee": 2672.0,
+      "bmi": 26.1
+    },
+    "generated_at": "2025-09-26T12:31:38.628680",
+    "api_version": "1.0.0"
+  },
+  "adapted_user": {
+    "success": true,
+    "meals": [
+      {
+        "meal_type": "breakfast",
+        "items": [
+          "Oatmeal",
+          "Banana",
+          "Eggs"
+        ],
+        "calories": 303.1,
+        "protein": 18.480000000000004,
+        "carbs": 28.720000000000002,
+        "fat": 12.7
+      },
+      {
+        "meal_type": "lunch",
+        "items": [
+          "Chicken Breast",
+          "Quinoa",
+          "Broccoli"
+        ],
+        "calories": 314.7960000000001,
+        "protein": 42.78400000000001,
+        "carbs": 22.640000000000004,
+        "fat": 5.9
+      },
+      {
+        "meal_type": "dinner",
+        "items": [
+          "Turkey Breast",
+          "Sweet Potato",
+          "Spinach"
+        ],
+        "calories": 244.348,
+        "protein": 38.752,
+        "carbs": 18.96,
+        "fat": 1.5
+      }
+    ],
+    "total_calories": 862.2,
+    "total_macros": {
+      "protein": 100.0,
+      "carbs": 70.3,
+      "fat": 20.1
+    },
+    "shopping_list": [
+      {
+        "item": "Quinoa",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "item": "Broccoli",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "item": "Eggs",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "item": "Banana",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "item": "Oatmeal",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "item": "Turkey Breast",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "item": "Sweet Potato",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "item": "Spinach",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "item": "Chicken Breast",
+        "quantity": 100,
+        "unit": "g"
+      }
+    ],
+    "total_cost": 11.4,
+    "adaptations": "Reduced carbohydrates due to glucose level of 165 mg/dL; Increased protein due to insufficient sleep (5.5h); Reduced portions due to low activity (4200 steps)",
+    "personalization_notes": "Allergen-free: avoiding dairy",
+    "metabolic_profile": {
+      "bmr": 1279.0,
+      "tdee": 1583.0,
+      "bmi": 25.4
+    },
+    "generated_at": "2025-09-26T12:31:38.633032",
+    "api_version": "1.0.0"
+  },
+  "error_response": {
+    "success": false,
+    "error": "Missing required fields: age, sex, weight_kg, height_cm",
+    "code": "VALIDATION_ERROR"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "success": true,
+  "meals": [
+    {
+      "meal_type": "breakfast",
+      "items": [
+        "Oatmeal",
+        "Banana",
+        "Eggs"
+      ],
+      "calories": 297.9,
+      "protein": 18.974999999999998,
+      "carbs": 26.924999999999997,
+      "fat": 12.7
+    },
+    {
+      "meal_type": "lunch",
+      "items": [
+        "Chicken Breast",
+        "Quinoa",
+        "Broccoli"
+      ],
+      "calories": 313.72,
+      "protein": 43.92999999999999,
+      "carbs": 21.225,
+      "fat": 5.9
+    },
+    {
+      "meal_type": "dinner",
+      "items": [
+        "Turkey Breast",
+        "Sweet Potato",
+        "Spinach"
+      ],
+      "calories": 243.76,
+      "protein": 39.79,
+      "carbs": 17.775000000000002,
+      "fat": 1.5
+    }
+  ],
+  "total_calories": 855.4,
+  "total_macros": {
+    "protein": 102.7,
+    "carbs": 65.9,
+    "fat": 20.1
+  },
+  "shopping_list": [
+    {
+      "item": "Quinoa",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "item": "Turkey Breast",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "item": "Sweet Potato",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "item": "Broccoli",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "item": "Eggs",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "item": "Chicken Breast",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "item": "Oatmeal",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "item": "Spinach",
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "item": "Banana",
+      "quantity": 100,
+      "unit": "g"
+    }
+  ],
+  "total_cost": 11.4,
+  "adaptations": "Reduced carbohydrates by 25% due to elevated glucose (155 mg/dL); Increased protein by 15% due to insufficient sleep (6.0h)",
+  "personalization_notes": "Optimized for very_active lifestyle with dairy-free requirements",
+  "metabolic_profile": {
+    "bmr": 1350.0,
+    "tdee": 2329.0,
+    "bmi": 22.8
+  },
+  "generated_at": "2025-09-26T12:29:30.324146"
+}
